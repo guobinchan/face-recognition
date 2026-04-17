@@ -1,0 +1,5 @@
+/home/cgb/document/javaDemo/faceSearch/backend/src/main/java/com/facerecognition/mapper/FaceLibraryMapper.java
+/home/cgb/document/javaDemo/faceSearch/backend/src/main/java/com/facerecognition/model/FaceLibrary.java
+/home/cgb/document/javaDemo/faceSearch/backend/src/main/java/com/facerecognition/service/FaceRecognitionService.java
+/home/cgb/document/javaDemo/faceSearch/backend/src/main/java/com/facerecognition/controller/FaceRecognitionController.java
+/home/cgb/document/javaDemo/faceSearch/backend/src/main/java/com/facerecognition/FaceRecognitionApplication.java

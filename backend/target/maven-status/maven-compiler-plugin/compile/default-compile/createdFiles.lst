@@ -1,0 +1,6 @@
+com/facerecognition/mapper/FaceLibraryMapper.class
+com/facerecognition/controller/FaceRecognitionController.class
+com/facerecognition/service/FaceRecognitionService$SearchResult.class
+com/facerecognition/model/FaceLibrary.class
+com/facerecognition/service/FaceRecognitionService.class
+com/facerecognition/FaceRecognitionApplication.class
